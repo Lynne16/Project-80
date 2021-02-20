@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+body input{
+    font-size: 15px;
+}
+body button{
+    font-size: 15px;
+    margin: 10px;
+}
+#showParagraph1{
+    font-size: 40px;
+}
+
+#showParagraph2{
+    font-size: 40px;
+}
+
